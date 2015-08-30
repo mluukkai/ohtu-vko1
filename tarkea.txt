@@ -1,4 +1,4 @@
-rivi
+foobar
 tarkea.txt
 toinen branchi
 toinen rivi
