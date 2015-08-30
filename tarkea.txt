@@ -1,4 +1,4 @@
 foobar
 tarkea.txt
 toinen branchi
-tekstiä
+toinen rivi
